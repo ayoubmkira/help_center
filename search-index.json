@@ -1,0 +1,358 @@
+{
+    "subcategories": [
+        {
+            "name": "Sections Manager",
+            "subcategories": [
+                {
+                    "name": "Working with Sections",
+                    "subcategories": [
+                        {
+                            "name": "Adding and Organizing Sections",
+                            "articles": [
+                                {
+                                    "title": "Adding New Sections",
+                                    "fileName": "/managing-sections/adding-a-section"
+                                },
+                                {
+                                    "title": "Removing Sections",
+                                    "fileName": "/managing-sections/removing-a-section"
+                                },
+                                {
+                                    "title": "Duplicating Sections",
+                                    "fileName": "/managing-sections/duplicating-a-section"
+                                },
+                                {
+                                    "title": "Moving Sections",
+                                    "fileName": "/managing-sections/moving-a-section"
+                                },
+                                {
+                                    "title": "Changing Section",
+                                    "fileName": "/managing-sections/changing-a-section"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Section Layout and Appearance",
+                            "subcategories": [
+                                {
+                                    "name": "Section Settings",
+                                    "articles": [
+                                        {
+                                            "title": "Padding and Spacing",
+                                            "fileName": "/customizing-sections/section-settings/edit-padding"
+                                        },
+                                        {
+                                            "title": "Separators",
+                                            "fileName": "/customizing-sections/section-settings/add-separator"
+                                        },
+                                        {
+                                            "title": "Skins",
+                                            "fileName": "/customizing-sections/section-settings/change-skin"
+                                        },
+                                        {
+                                            "title": "Visibility",
+                                            "fileName": "/customizing-sections/section-settings/manage-visibility"
+                                        },
+                                        {
+                                            "title": "Alignment",
+                                            "fileName": "/customizing-sections/section-settings/adjust-alignment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Backgrounds",
+                                    "articles": [
+                                        {
+                                            "title": "Image Backgrounds",
+                                            "fileName": "customizing-sections/background-settings/image-background"
+                                        },
+                                        {
+                                            "title": "Video Backgrounds",
+                                            "fileName": "customizing-sections/background-settings/video-background"
+                                        },
+                                        {
+                                            "title": "Color Backgrounds",
+                                            "fileName": "customizing-sections/background-settings/color-background"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced Section Customization",
+                            "articles": [
+                                {
+                                    "title": "Custom HTML",
+                                    "fileName": "/customizing-sections/advanced-features/edit-html-code"
+                                },
+                                {
+                                    "title": "Custom CSS/JavaScript",
+                                    "fileName": "/customizing-sections/advanced-features/edit-css-and-js-code"
+                                },
+                                {
+                                    "title": "AI-Powered Smart Creator",
+                                    "fileName": "/customizing-sections/advanced-features/smart-creator"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Sections",
+                    "subcategories": [
+                        {
+                            "name": "Navigation & Footer Sections",
+                            "subcategories": [
+                                {
+                                    "name": "Limitations",
+                                    "articles": [
+                                        {
+                                            "title": "Navigation Limitations",
+                                            "fileName": "/special-sections/navigation-limitations"
+                                        },
+                                        {
+                                            "title": "Footer Limitations",
+                                            "fileName": "/special-sections/footer-limitations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Manage Nav Links",
+                                    "articles": [
+                                        {
+                                            "title": "Adding Navigation Links",
+                                            "fileName": "/special-sections/adding-navigation-links"
+                                        },
+                                        {
+                                            "title": "Editing Navigation Links",
+                                            "fileName": "/special-sections/editing-navigation-links"
+                                        },
+                                        {
+                                            "title": "Removing Navigation Links",
+                                            "fileName": "/special-sections/removing-navigation-links"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Logo Customization",
+                                    "articles": [
+                                        {
+                                            "title": "Change Logo",
+                                            "fileName": "/special-sections/change-logo"
+                                        },
+                                        {
+                                            "title": "Change Logo Size",
+                                            "fileName": "/special-sections/change-logo-size"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Popup Sections",
+                            "articles": [
+                                {
+                                    "title": "Managing Popup Sections",
+                                    "fileName": "/special-sections/managing-popup-sections"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Product Sections",
+                            "articles": [
+                                {
+                                    "title": "Adding & Editing Product",
+                                    "fileName": "/special-sections/products/adding-and-editing-product"
+                                },
+                                {
+                                    "title": "Quick Edit Product",
+                                    "fileName": "/special-sections/products/quick-edit-product"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Customizing Section Elements",
+                    "subcategories": [
+                        {
+                            "name": "General Element Controls",
+                            "articles": [
+                                {
+                                    "title": "Adding Links",
+                                    "fileName": "/customizing-section-elements/general-features/adding-link"
+                                },
+                                {
+                                    "title": "Animations and Effects",
+                                    "fileName": "/customizing-section-elements/general-features/change-animation"
+                                },
+                                {
+                                    "title": "Theme Color Overrides",
+                                    "fileName": "/customizing-section-elements/general-features/change-theme-colors"
+                                },
+                                {
+                                    "title": "Element Settings",
+                                    "fileName": "/customizing-section-elements/general-features/edit-settings"
+                                },
+                                {
+                                    "title": "Duplicating/Removing Elements",
+                                    "fileName": "/customizing-section-elements/general-features/remove-or-duplicate-an-element"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Element-Specific Customization",
+                            "subcategories": [
+                                {
+                                    "name": "Text",
+                                    "articles": [
+                                        {
+                                            "title": "Content Editing",
+                                            "fileName": "/customizing-section-elements/text/editing-text-content"
+                                        },
+                                        {
+                                            "title": "Formatting",
+                                            "fileName": "/customizing-section-elements/text/text-formatting"
+                                        },
+                                        {
+                                            "title": "Alignment",
+                                            "fileName": "/customizing-section-elements/text/text-alignment"
+                                        },
+                                        {
+                                            "title": "Decoration",
+                                            "fileName": "/customizing-section-elements/text/text-decoration"
+                                        },
+                                        {
+                                            "title": "Font Styles",
+                                            "fileName": "/customizing-section-elements/text/changing-font-style-and-size"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Images",
+                                    "articles": [
+                                        {
+                                            "title": "Image Settings",
+                                            "fileName": "/customizing-section-elements/images/edit-image-settings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Videos",
+                                    "articles": [
+                                        {
+                                            "title": "Video Settings",
+                                            "fileName": "/customizing-section-elements/videos/edit-video-settings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Buttons",
+                                    "articles": [
+                                        {
+                                            "title": "Button Settings",
+                                            "fileName": "/customizing-section-elements/buttons/edit-button-settings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Icons",
+                                    "articles": [
+                                        {
+                                            "title": "Icon settings",
+                                            "fileName": "/customizing-section-elements/icons/edit-icon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Headings",
+                                    "articles": [
+                                        {
+                                            "title": "Heading Levels",
+                                            "fileName": "/customizing-section-elements/headings/edit-heading-type"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Forms",
+                                    "articles": [
+                                        {
+                                            "title": "Form Field Management",
+                                            "fileName": "/customizing-section-elements/forms/handle-forms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Maps",
+                                    "articles": [
+                                        {
+                                            "title": "Map Location and Display Settings",
+                                            "fileName": "/customizing-section-elements/maps/handle-maps"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Counters & Timers",
+                                    "articles": [
+                                        {
+                                            "title": "Counter and Timer Settings",
+                                            "fileName": "/customizing-section-elements/counters-timers/handle-counters-and-timers"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pages Manager",
+            "subcategories": [
+                {
+                    "name": "Page Creation & Organization",
+                    "articles": [
+                        {
+                            "title": "Add New Page",
+                            "fileName": "/pages/add-new-page"
+                        },
+                        {
+                            "title": "Save and Preview Page",
+                            "fileName": "/pages/save-and-preview-page"
+                        },
+                        {
+                            "title": "Duplicate Page",
+                            "fileName": "/pages/duplicate-page"
+                        },
+                        {
+                            "title": "Remove Page",
+                            "fileName": "/pages/remove-page"
+                        }
+                    ]
+                },
+                {
+                    "name": "Page Configuration & Customization",
+                    "subcategories": [
+                        {
+                            "name": "Page Settings",
+                            "articles": [
+                                {
+                                    "title": "General Settings",
+                                    "fileName": "/pages/general-settings"
+                                },
+                                {
+                                    "title": "SEO Settings",
+                                    "fileName": "/pages/seo-settings"
+                                },
+                                {
+                                    "title": "Preloader Settings",
+                                    "fileName": "/pages/preloader-settings"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
