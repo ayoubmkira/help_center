@@ -327,6 +327,10 @@
                         {
                             "title": "Remove Page",
                             "fileName": "/pages/remove-page"
+                        },
+                        {
+                            "title": "Regenerate Page Content (AI)",
+                            "fileName": "/pages/regenerate-page-content-ai"
                         }
                     ]
                 },
