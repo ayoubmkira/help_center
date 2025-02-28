@@ -365,3 +365,9 @@ td {
 td:last-child {
     text-align: right;
 }
+
+@media screen and (max-width: 850px) {
+    .main {
+        display: block;
+    }
+}
