@@ -358,6 +358,15 @@
                                     "fileName": "/pages/regenerate-page-content-ai"
                                 }
                             ]
+                        },
+                        {
+                            "name": "Preview Page on Different Devices",
+                            "articles": [
+                                {
+                                    "title": "Preview Page on Different Devices",
+                                    "fileName": "/pages/preview-page-on-different-devices"
+                                }
+                            ]
                         }
                     ]
                 }
